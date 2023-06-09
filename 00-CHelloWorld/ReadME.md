@@ -1,1 +1,1 @@
-Elcompilador elegido es C11. 
+Elcompilador elegido es C18. 
